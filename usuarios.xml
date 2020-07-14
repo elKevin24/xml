@@ -1,0 +1,33 @@
+<?<?xml version="1.0" encoding="UTF-8"?>
+<usuarios>
+  <usuario>
+    <usuarioid>1</usuarioid>
+    <nombre>KEVIN CORDON</nombre>
+    <twitter>kcordon</twitter>
+  </usuario>
+  <usuario>
+    <usuarioid>2</usuarioid>
+    <nombre>Carlos Cabrera</nombre>
+    <twitter>puta</twitter>
+  </usuario>
+  <usuario>
+    <usuarioid>3</usuarioid>
+    <nombre>Negro</nombre>
+    <twitter>negro</twitter>
+  </usuario>
+  <usuario>
+    <usuarioid>4</usuarioid>
+    <nombre>ARIEL RUIZ</nombre>
+    <twitter>ARUIZ</twitter>
+  </usuario>
+  <usuario>
+    <usuarioid>5</usuarioid>
+    <nombre>PAULA RUIZ</nombre>
+    <twitter>PRUIZ</twitter>
+  </usuario>
+  <usuario>
+    <usuarioid>7</usuarioid>
+    <nombre>JOSE</nombre>
+    <twitter>JOSE</twitter>
+  </usuario>
+</usuarios>
